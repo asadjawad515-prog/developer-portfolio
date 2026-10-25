@@ -6,7 +6,7 @@ A responsive developer portfolio built with **React, TypeScript, and Vite** to s
 
 **Portfolio:** https://developer-portfolio-ja3ia6u51-asadjawad515-prog.vercel.app/
 
-GitHub: https://github.com/asadjawad515-prog
+**GitHub:** https://github.com/asadjawad515-prog
 
 ## ✨ Features
 
@@ -47,10 +47,13 @@ GitHub: https://github.com/asadjawad515-prog
 
    ```bash
    git clone https://github.com/asadjawad515-prog/developer-portfolio.git
+
    ```
 
 2. Navigate to the project directory:
-cd developer-portfolio
+
+   ```bash
+   cd developer-portfolio
    ```
 
 3. Install dependencies:
