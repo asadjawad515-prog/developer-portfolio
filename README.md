@@ -46,13 +46,11 @@ GitHub: https://github.com/asadjawad515-prog
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_PORTFOLIO_REPOSITORY_URL
+   git clone https://github.com/asadjawad515-prog/developer-portfolio.git
    ```
 
 2. Navigate to the project directory:
-
-   ```bash
-   cd YOUR_PORTFOLIO_PROJECT_FOLDER
+cd developer-portfolio
    ```
 
 3. Install dependencies:
