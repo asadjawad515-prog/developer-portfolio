@@ -48,21 +48,31 @@ function App() {
             </section>
 
 
-            <section id="skills">
-                <h2>Skills</h2>
-                <p>Technologies I use and am currently learning:</p>
+            
+<section id="skills">
+    <h2>Skills</h2>
+    <p>Technologies I use and am currently learning:</p>
 
-                <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
-                    <li>React</li>
-                    <li>TypeScript (Learning)</li>
-                    <li>Git and GitHub</li>
-                    <li>API Integration</li>
-                    <li>Responsive Web Design</li>
-                </ul>
-            </section>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript (ES6+)</li>
+        <li>React.js</li>
+        <li>TypeScript</li>
+        <li>React Hooks (useState, useEffect)</li>
+        <li>React Router</li>
+        <li>Context API</li>
+        <li>CRUD Operations</li>
+        <li>REST API Integration</li>
+        <li>Search, Filtering and Sorting</li>
+        <li>Drag-and-Drop with dnd-kit</li>
+        <li>Browser localStorage</li>
+        <li>Responsive Web Design</li>
+        <li>Git and GitHub</li>
+        <li>Vercel Deployment</li>
+    </ul>
+</section>
+
 
             <section id="projects">
                 <h2>My Projects</h2>
@@ -80,10 +90,32 @@ function App() {
                         Source Code
                     </a>
                 </div>
-                <div className="project-card">
-                    <h3>Task Management Dashboard</h3>
-                    <p>A task management project currently in development using React and TypeScript.</p>
-                </div>
+                
+<div className="project-card">
+    <h3>Task Management Dashboard</h3>
+    <p>
+        A responsive task management application built with React and TypeScript.
+        It includes task creation and management, search and filters, Kanban
+        drag-and-drop, analytics, and browser-based data persistence.
+    </p>
+
+    <a
+        href="https://task-management-dashboard-one-tau.vercel.app/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        Live Demo
+    </a>
+
+    <a
+        href="https://github.com/asadjawad515-prog/task-management-dashboard"
+        target="_blank"
+        rel="noreferrer"
+    >
+        Source Code
+    </a>
+</div>
+
             </section>
 
 
